@@ -100,5 +100,5 @@ I need to review the TK materials for this module and start reading the material
 I had trouble understanding the instructions on the Menu.js. I have some idea of how to use `.bind()` but I do not feel 100% confident. 
 
 ### Breakthroughs:
-I am understand how components can make our lives so much easier.
+I am understand how components can make our lives so much easier by allowing us to create reusable chunks of code (components)
 
